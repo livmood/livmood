@@ -1,5 +1,5 @@
 ## Olivia Moody 👋
-Hey there!! I'm Olivia Moody, A sophomore Computer Science & Data Science Dual Major at NYU. With experience in Java, Mobile App Development, Prompt Engineering, Python and more, I'm all about trying new things and being able connect people from different disciplines. From my internships to my personal projects and classes I'm always looking to learn more and contribute to exciting projects.
+Hey there!! I'm a sophomore Computer Science & Data Science Dual Major at NYU. I have experience in Java, Mobile App Development, Prompt Engineering, Python and more. I'm all about trying new things and connecting with people from different disciplines. From my internships to my personal projects and classes, I'm always looking to learn more and contribute to exciting projects.
 
 About me 👨‍🦱
 Name: Olivia Moody
