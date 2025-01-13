@@ -7,7 +7,7 @@ Name: Olivia Moody
 
 Education: Sophomore CS & DS student at New York University.
 
-GPA: 3.56
+Major GPA: 3.71
 
 Experience:
 
