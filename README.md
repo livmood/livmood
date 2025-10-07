@@ -1,19 +1,21 @@
 ## Olivia Moody 👋
-Hey there!! I'm a sophomore Computer Science & Data Science Dual Major at NYU. I have experience in Java, Mobile App Development, Prompt Engineering, Python and more. I'm all about trying new things and connecting with people from different disciplines. From my internships to my personal projects and classes, I'm always looking to learn more and contribute to exciting projects.
+Hey there!! I'm a junior Computer Science student at NYU. I have experience in Java, Swift, React Native, C, C++, Python, SQL and more. I'm all about trying new things and connecting with people from different disciplines. From my internships to my personal projects and classes, I'm always looking to learn more and contribute to exciting projects.
 
 About me 👨‍🦱
 
 Name: Olivia Moody
 
-Education: Sophomore CS & DS student at New York University.
+Education: Junior studying CS @ New York University.
 
-Major GPA: 3.71
+GPA: 3.61
 
 Experience:
 
-Newtown Forest Association (June 2024 - Present) - Utilizing Expo (An offshoot of React Native) and Cloud Firestore to create an inventory and property managament tool. Looking to launch on the app store this coming Spring!
+Hopscotch Labs (February 2024 - Present): Mobile app development for early stage startup! Tech stack: Swift & Scala. Latest feature: Implementing User Tagging. 
 
-Principles of Data Science Capstone Project (September 2024 - December 2024) - Utilized numpy libraries to perform data analysis on ~92,000 reviews scraped from Rate My Professor. 
+Newtown Forest Association (June 2024 - August 2024): Utilizing Expo (An offshoot of React Native) and Cloud Firestore to create an inventory and property managament tool.
+
+Principles of Data Science Capstone Project (September 2024 - December 2024): Utilized numpy libraries to perform data analysis on ~92,000 reviews scraped from Rate My Professor. 
 
 
 Interests 🥳
