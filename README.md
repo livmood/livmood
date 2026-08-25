@@ -1,34 +1,45 @@
 ## Olivia Moody 👋
-Hey there!! I'm a junior Computer Science student at NYU. I have experience in Java, Swift, React Native, C, C++, Python, SQL and more. I'm all about trying new things and connecting with people from different disciplines. From my internships to my personal projects and classes, I'm always looking to learn more and contribute to exciting projects.
+Hey there!! I'm a senior Computer Science student at NYU. I have experience in Java, Swift, React Native, C, JavaScript, Python, SQL and more. I'm all about trying new things and connecting with people from different disciplines. From my internships to my personal projects and classes, I'm always looking to learn more and contribute to exciting projects.
 
-About me 👨‍🦱
+About me 👩
 
 Name: Olivia Moody
 
-Education: Junior studying CS @ New York University.
+Education: Senior studying CS @ New York University.
 
-GPA: 3.61
+GPA: 3.6
 
 Experience:
+Gartner (May 2026 - July 2026): Custom powerpoint generator (CPG) tool using Salesforce. Tech Stack: Apache POI & Lightning Web Components. User feedback: "The CPG tool accomplishes in 10 - 15 minutes what used to take 2+ hours".
 
-Hopscotch Labs (February 2024 - Present): Mobile app development for early stage startup! Tech stack: Swift & Scala. Latest feature: Implementing User Tagging. 
+Hopscotch Labs (February 2024 - December 2025): Mobile app development for early stage startup! Tech stack: Swift & Scala. Latest feature: Implementing User Tagging. 
 
-Newtown Forest Association (June 2024 - August 2024): Utilizing Expo (An offshoot of React Native) and Cloud Firestore to create an inventory and property managament tool.
+Newtown Forest Association (June 2024 - August 2024): Utilizing Expo (An offshoot of React Native) and Firebase to create an inventory and property management tool.
 
-Principles of Data Science Capstone Project (September 2024 - December 2024): Utilized numpy libraries to perform data analysis on ~92,000 reviews scraped from Rate My Professor. 
+Principles of Data Science Capstone Project (September 2024 - December 2024): Utilized Numpy libraries to perform data analysis on ~92,000 reviews scraped from Rate My Professor. 
 
 
-Interests 🥳
+Technical Interests 🥳
 
-App Development - I love exploring other industries through creating passion projects using app development.
+Machine Learning Models - Human brains translate the information from our eyes to 'predict' what we see. Bats do something similar with echo-location. Machine learning is prediction, but not limited to living things!
 
-Database Systems - Databases, whether SQL like PHP or PostgreSQL or non relational databases like Firebase or MongoDB, are the foundation of data analysis, and I'm always down to experiment with them.
+App Development - Great way to explore passion projects.
 
-Forecasting Models - I love how forecasting models enable you to gather insights about anything you find interesting!
+Data Pipelines - With the advent of AI, data is more important than ever before  
+
+
+Personal Interests 😉
+
+Pool - I'm constantly trying to improve my game. Always down to play!
+
+Books - I used to LOVE reading as a kid. I'm trying to get back into it now [https://www.goodreads.com/user/show/202548424-liv-mood](goodreads).
+
+Fitness - Healthy body = healthy mind.
+
 
 What's next? 🌱
 
-I'm looking forward to participating in the EY Open Science AI & Data Science Challenge centered around Urban Heat Islands! 
+I'm looking forward to participating in the Roblox Jumpstart Program and getting a taste of Game Development! 
 
 
 Get in Touch 🌐
