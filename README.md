@@ -32,7 +32,7 @@ Personal Interests 😉
 
 Pool - I'm constantly trying to improve my game. Always down to play!
 
-Books - I used to LOVE reading as a kid. I'm trying to get back into it now [https://www.goodreads.com/user/show/202548424-liv-mood](goodreads).
+Books - I used to LOVE reading as a kid. I'm trying to get back into it now [goodreads](https://www.goodreads.com/user/show/202548424-liv-mood).
 
 Fitness - Healthy body = healthy mind.
 
